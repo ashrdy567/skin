@@ -64,6 +64,7 @@ svg.icon--cart {
   width: 23px;
 }
 svg.icon--checkbox-checked {
+  color: var(--checkbox-mixed-foreground, #fff);
   height: 18px;
   width: 18px;
 }
@@ -72,6 +73,7 @@ svg.icon--checkbox-unchecked {
   width: 18px;
 }
 svg.icon--checkbox-checked-large {
+  color: var(--checkbox-mixed-foreground, #fff);
   height: 24px;
   width: 24px;
 }
